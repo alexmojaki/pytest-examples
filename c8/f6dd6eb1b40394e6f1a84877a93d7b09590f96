@@ -1,0 +1,19 @@
+pytest_examples/eval_example.py
+  s_0b7cd1bd2efbeb::t_3cf7ccbdc6885b 41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c8f6dd6eb1b40394e6f1a84877a93d7b09590f96",
+  "prompts": {},
+  "sessions": {
+    "s_0b7cd1bd2efbeb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20d9e-a5b6-73f3-b337-297d837ce063",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "Alex Hall <alex.mojaki@gmail.com>"
+    }
+  }
+}
